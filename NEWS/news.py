@@ -3,7 +3,7 @@ use news api to get news .
 fatch daily news.
 """
 
-# api :: d515bbdf565d440ea94376cc7f53bd95
+
 import requests
 import json
 
